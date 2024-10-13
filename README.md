@@ -10,3 +10,17 @@ The dataset contains features such as age, job type, marital status and educatio
 - **Data Preprocessing:** Cleaning and preparing the dataset for modeling.
 - **Modeling:** Implementation of Logistic Regression, trained on different feature subsets (using the feature elimination technique) and evaluated using various \( C \) values to determine the optimal regularization strength.
 - **Evaluation:** Model accuracy.
+
+## Libraries used : 
+- Numpy
+- Pandas
+- Scikit-learn
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+
+
+---
+Serena
+
